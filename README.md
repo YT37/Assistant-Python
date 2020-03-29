@@ -2,7 +2,7 @@
 This project is an Assistant to set up schedules and do basic commands in Python.
 
 # Credits
- - Modified from (@techwithtim)'s tutorial.
+ - Modified from @techwithtim tutorial.
 
 # Requirements
  - Python 3.x
