@@ -5,7 +5,7 @@ This project is an Assistant to set up schedules and do basic commands in Python
  - Modified from [this](https://www.youtube.com/watch?v=-AzGZ_CHzJk&list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx) tutorial.
 
 # Requirements
- - Python 3.x
+ - Python 3.6 or up
  - [Google Calendar API](https://developers.google.com/calendar/quickstart/python?authuser=3)
  - PYTTSX3
  - PYTZ
