@@ -2,7 +2,7 @@
 This project is an Assistant to set up schedules and do basic commands in Python.
 
 # Credits
- - Modified from @techwithtim tutorial.
+ - Modified from [this](https://www.youtube.com/watch?v=-AzGZ_CHzJk&list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx) tutorial.
 
 # Requirements
  - Python 3.x
@@ -13,6 +13,7 @@ This project is an Assistant to set up schedules and do basic commands in Python
  
  # Instructions To Use
    - **Make sure all files should be in the same folder before running.**
+   - **Download the credentials file from google and make sure to rename it to *Creds.json* and put it in the same folder.**
    ``` 
    pip install -r requirements.txt
    ```
