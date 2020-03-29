@@ -4,8 +4,6 @@ import pickle
 import subprocess
 import time
 
-import playsound as ps
-import pyaudio as pa
 import pyttsx3
 import pytz
 import speech_recognition as sr
