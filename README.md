@@ -17,6 +17,11 @@ This project is an Assistant to set up schedules and do basic commands in Python
    ``` 
    pip install -r requirements.txt
    ```
+   - **Windows**
+   ```
+   python Assistant.py
+   ```
+   - **Mac or Linux**
    ```
    python3 Assistant.py
    ```
